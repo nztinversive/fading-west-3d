@@ -1,0 +1,9 @@
+{
+  "id": "clean_asphalt",
+  "res": "1k",
+  "files": [
+    "clean_asphalt_arm_1k.jpg",
+    "clean_asphalt_diff_1k.jpg",
+    "clean_asphalt_nor_gl_1k.jpg"
+  ]
+}

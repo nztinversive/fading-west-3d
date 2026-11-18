@@ -1,0 +1,60 @@
+{
+ "name": "shrub",
+ "source": "shrub_02.gltf",
+ "variant": "a",
+ "height": 1.6889772703418997,
+ "islands": 125,
+ "sprites": 8,
+ "bark": false,
+ "lods": [
+  {
+   "cards": 55,
+   "tris": 110,
+   "position": [
+    0,
+    660
+   ],
+   "normal": [
+    2640,
+    660
+   ],
+   "uvs": [
+    5280,
+    660
+   ],
+   "flag": [
+    7920,
+    220
+   ],
+   "index": [
+    8800,
+    330
+   ]
+  },
+  {
+   "cards": 12,
+   "tris": 24,
+   "position": [
+    10120,
+    144
+   ],
+   "normal": [
+    10696,
+    144
+   ],
+   "uvs": [
+    11272,
+    144
+   ],
+   "flag": [
+    11848,
+    48
+   ],
+   "index": [
+    12040,
+    72
+   ]
+  }
+ ],
+ "atlas": "shrub.webp"
+}

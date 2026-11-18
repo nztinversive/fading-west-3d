@@ -1,0 +1,51 @@
+{
+  "lat": 38.8211,
+  "lon": -106.1398,
+  "originElevation": 2447.9,
+  "frame": "local tangent plane; +X east, -Z north, meters",
+  "attribution": "Terrain: AWS Terrain Tiles (Mapzen/Tilezen) — USGS 3DEP, SRTM, GMTED2010",
+  "levels": {
+    "detail": {
+      "file": "detail.u16",
+      "rect": [
+        -25600,
+        -19200,
+        6400,
+        19200
+      ],
+      "nx": 1001,
+      "nz": 1201,
+      "spacing": 32,
+      "min": 2303,
+      "max": 4389,
+      "sourceZoom": 13
+    },
+    "near": {
+      "file": "near.u16",
+      "n": 577,
+      "half": 1152,
+      "spacing": 4,
+      "min": 2414,
+      "max": 2478,
+      "sourceZoom": 15
+    },
+    "far": {
+      "file": "far.u16",
+      "n": 801,
+      "half": 25600,
+      "spacing": 64,
+      "min": 2201,
+      "max": 4376,
+      "sourceZoom": 12
+    },
+    "horizon": {
+      "file": "horizon.u16",
+      "n": 481,
+      "half": 122880,
+      "spacing": 512,
+      "min": 1449,
+      "max": 4302,
+      "sourceZoom": 9
+    }
+  }
+}

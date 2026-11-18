@@ -1,0 +1,9 @@
+{
+  "id": "concrete_block_wall",
+  "res": "1k",
+  "files": [
+    "concrete_block_wall_arm_1k.jpg",
+    "concrete_block_wall_diff_1k.jpg",
+    "concrete_block_wall_nor_gl_1k.jpg"
+  ]
+}

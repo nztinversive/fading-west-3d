@@ -1,0 +1,9 @@
+{
+  "id": "dry_ground_rocks",
+  "res": "1k",
+  "files": [
+    "dry_ground_rocks_arm_1k.jpg",
+    "dry_ground_rocks_diff_1k.jpg",
+    "dry_ground_rocks_nor_gl_1k.jpg"
+  ]
+}

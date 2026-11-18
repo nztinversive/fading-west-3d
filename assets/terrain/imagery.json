@@ -1,0 +1,74 @@
+{
+  "source": "USDA NAIP orthoimagery via USGS The National Map ImageServer (public domain)",
+  "images": {
+    "near": {
+      "file": "img_near.jpg",
+      "rect": [
+        -1152,
+        -1152,
+        1152,
+        1152
+      ],
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    "far": {
+      "file": "img_far.jpg",
+      "rect": [
+        -25600,
+        -25600,
+        25600,
+        25600
+      ],
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "horizon": {
+      "file": "img_horizon.jpg",
+      "rect": [
+        -122880,
+        -122880,
+        122880,
+        122880
+      ],
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "detail": {
+      "file": "img_detail.jpg",
+      "rect": [
+        -25600,
+        -19200,
+        6400,
+        19200
+      ],
+      "size": [
+        3413,
+        4096
+      ]
+    }
+  },
+  "treemask": {
+    "file": "treemask_near.png",
+    "rect": [
+      -1152,
+      -1152,
+      1152,
+      1152
+    ],
+    "size": [
+      1152,
+      1152
+    ]
+  },
+  "years": [
+    2019
+  ],
+  "attribution": "Imagery: USDA NAIP 2019\u20132019 (public domain) via USGS The National Map"
+}

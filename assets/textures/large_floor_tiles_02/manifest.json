@@ -1,0 +1,9 @@
+{
+  "id": "large_floor_tiles_02",
+  "res": "1k",
+  "files": [
+    "large_floor_tiles_02_arm_1k.jpg",
+    "large_floor_tiles_02_diff_1k.jpg",
+    "large_floor_tiles_02_nor_gl_1k.jpg"
+  ]
+}

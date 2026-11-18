@@ -1,0 +1,9 @@
+{
+  "id": "long_white_tiles",
+  "res": "1k",
+  "files": [
+    "long_white_tiles_arm_1k.jpg",
+    "long_white_tiles_diff_1k.jpg",
+    "long_white_tiles_nor_gl_1k.jpg"
+  ]
+}

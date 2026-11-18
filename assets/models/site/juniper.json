@@ -1,0 +1,60 @@
+{
+ "name": "juniper",
+ "source": "fir_sapling.gltf",
+ "variant": "a",
+ "height": 1.300737977027893,
+ "islands": 17877,
+ "sprites": 8,
+ "bark": true,
+ "lods": [
+  {
+   "cards": 237,
+   "tris": 800,
+   "position": [
+    0,
+    5778
+   ],
+   "normal": [
+    23112,
+    5778
+   ],
+   "uvs": [
+    46224,
+    5778
+   ],
+   "flag": [
+    69336,
+    1926
+   ],
+   "index": [
+    77040,
+    2400
+   ]
+  },
+  {
+   "cards": 32,
+   "tris": 145,
+   "position": [
+    86640,
+    1113
+   ],
+   "normal": [
+    91092,
+    1113
+   ],
+   "uvs": [
+    95544,
+    1113
+   ],
+   "flag": [
+    99996,
+    371
+   ],
+   "index": [
+    101480,
+    435
+   ]
+  }
+ ],
+ "atlas": "juniper.webp"
+}

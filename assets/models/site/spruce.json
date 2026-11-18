@@ -1,0 +1,60 @@
+{
+ "name": "spruce",
+ "source": "fir_sapling_medium.gltf",
+ "variant": "a",
+ "height": 8.826326817274094,
+ "islands": 71189,
+ "sprites": 8,
+ "bark": true,
+ "lods": [
+  {
+   "cards": 771,
+   "tris": 4632,
+   "position": [
+    0,
+    37062
+   ],
+   "normal": [
+    148248,
+    37062
+   ],
+   "uvs": [
+    296496,
+    37062
+   ],
+   "flag": [
+    444744,
+    12354
+   ],
+   "index": [
+    494160,
+    13896
+   ]
+  },
+  {
+   "cards": 76,
+   "tris": 1351,
+   "position": [
+    549744,
+    11703
+   ],
+   "normal": [
+    596556,
+    11703
+   ],
+   "uvs": [
+    643368,
+    11703
+   ],
+   "flag": [
+    690180,
+    3901
+   ],
+   "index": [
+    705784,
+    4053
+   ]
+  }
+ ],
+ "atlas": "spruce.webp"
+}

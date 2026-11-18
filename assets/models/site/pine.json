@@ -1,0 +1,60 @@
+{
+ "name": "pine",
+ "source": "pine_sapling_small.gltf",
+ "variant": "a",
+ "height": 1.2989574084058404,
+ "islands": 9115,
+ "sprites": 8,
+ "bark": true,
+ "lods": [
+  {
+   "cards": 150,
+   "tris": 623,
+   "position": [
+    0,
+    4707
+   ],
+   "normal": [
+    18828,
+    4707
+   ],
+   "uvs": [
+    37656,
+    4707
+   ],
+   "flag": [
+    56484,
+    1569
+   ],
+   "index": [
+    62760,
+    1869
+   ]
+  },
+  {
+   "cards": 31,
+   "tris": 143,
+   "position": [
+    70236,
+    1101
+   ],
+   "normal": [
+    74640,
+    1101
+   ],
+   "uvs": [
+    79044,
+    1101
+   ],
+   "flag": [
+    83448,
+    367
+   ],
+   "index": [
+    84916,
+    429
+   ]
+  }
+ ],
+ "atlas": "pine.webp"
+}

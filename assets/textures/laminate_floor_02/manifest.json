@@ -1,0 +1,9 @@
+{
+  "id": "laminate_floor_02",
+  "res": "1k",
+  "files": [
+    "laminate_floor_02_arm_1k.jpg",
+    "laminate_floor_02_diff_1k.jpg",
+    "laminate_floor_02_nor_gl_1k.jpg"
+  ]
+}
