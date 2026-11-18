@@ -1,0 +1,10 @@
+{
+  "id": "white_oak_floor",
+  "res": "1k",
+  "source": "Derived (lightened, desaturated) from Poly Haven 'wood_floor' (CC0) by scripts/interior — CC0",
+  "files": [
+    "white_oak_floor_arm_1k.jpg",
+    "white_oak_floor_diff_1k.jpg",
+    "white_oak_floor_nor_gl_1k.jpg"
+  ]
+}
