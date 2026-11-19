@@ -18,7 +18,8 @@
       "spacing": 32,
       "min": 2303,
       "max": 4389,
-      "sourceZoom": 13
+      "sourceZoom": 13,
+      "packed": "detail.u16z"
     },
     "near": {
       "file": "near.u16",
@@ -27,7 +28,8 @@
       "spacing": 4,
       "min": 2414,
       "max": 2478,
-      "sourceZoom": 15
+      "sourceZoom": 15,
+      "packed": "near.u16z"
     },
     "far": {
       "file": "far.u16",
@@ -36,7 +38,8 @@
       "spacing": 64,
       "min": 2201,
       "max": 4376,
-      "sourceZoom": 12
+      "sourceZoom": 12,
+      "packed": "far.u16z"
     },
     "horizon": {
       "file": "horizon.u16",
@@ -45,7 +48,8 @@
       "spacing": 512,
       "min": 1449,
       "max": 4302,
-      "sourceZoom": 9
+      "sourceZoom": 9,
+      "packed": "horizon.u16z"
     }
   }
 }
