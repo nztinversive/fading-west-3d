@@ -6,9 +6,14 @@
    "created": "2026-11-18T08:38:38.238Z"
   },
   "{\"front\":[\"2BR\",\"1BR\",\"STAIR\",\"1BR\",\"STUDIO\",\"STUDIO\",\"STAIR\",\"1BR\",\"2BR\"],\"back\":[\"2BR\",\"1BR\",\"1BR\",\"1BR\",\"1BR\",\"1BR\",\"2BR\"],\"roof\":\"rpanel\",\"balconies\":{\"STUDIO\":false,\"1BR\":false,\"2BR\":true,\"3BR\":false},\"spec\":\"economy\"}": {
-   "dir": "1k7r174",
-   "quality": "draft",
-   "created": "2026-11-18T15:38:53.635Z"
+   "dir": "1ilgzg9",
+   "quality": "final",
+   "created": "2026-11-19T06:17:08.609Z",
+   "phone": {
+    "dir": "1ilgzg9p",
+    "quality": "final",
+    "created": "2026-11-19T06:51:18.244Z"
+   }
   },
   "{\"front\":[\"2BR\",\"1BR\",\"STAIR\",\"1BR\",\"1BR\",\"STAIR\",\"1BR\",\"2BR\"],\"back\":[\"2BR\",\"1BR\",\"2BR\",\"2BR\",\"1BR\",\"2BR\"],\"roof\":\"metal\",\"balconies\":{\"STUDIO\":true,\"1BR\":true,\"2BR\":true,\"3BR\":true},\"spec\":\"premium\"}": {
    "dir": "sec6f8",
