@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Fading West · Buena Vista Factory Tour — Interactive 3D</title>
+  <meta name="description" content="An interactive 3D tour of Fading West’s Buena Vista, Colorado factory floor — production stations from frame to finish. Published facts from fadingwest.com; station layout illustrative." />
+  <meta name="theme-color" content="#1b1d20" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+      <style>html,body{overscroll-behavior:none;background:#1b1d20;height:100%;margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;overflow:hidden}#viewport{touch-action:none;position:fixed;inset:0}#viewport canvas{touch-action:none;width:100%;height:100%;display:block}#loading{color:#ecebe6;z-index:100;background:radial-gradient(at 50% 120%,#3a352c 0%,#1b1d20 55%,#131416 100%);place-items:center;padding:24px;transition:opacity .8s;display:grid;position:fixed;inset:0}#loading.done{opacity:0;pointer-events:none}#loading .box{text-align:center;width:min(520px,100%)}#loading .k{letter-spacing:.24em;text-transform:uppercase;color:#e2b46a;font-size:12px;font-weight:600}#loading h1{letter-spacing:-.01em;margin:12px 0 8px;font-size:clamp(26px,5vw,40px);font-weight:650;line-height:1.1}#loading .sub{opacity:.72;font-size:16px}#loading .track{background:#ffffff1f;border-radius:2px;width:min(320px,80%);height:4px;margin:30px auto 0;overflow:hidden}#loading-bar{background:#e2b46a;border-radius:2px;width:6%;height:100%;transition:width .8s}#loading-msg{opacity:.8;min-height:1.4em;margin-top:12px;font-size:14px}#loading .peaks{opacity:.9;margin:0 auto 18px;display:block}</style>
+  <script type="module" crossorigin src="./assets/factory-CicBslrL.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
+  <link rel="modulepreload" crossorigin href="./assets/three.core-BF58tRDi.js">
+  <link rel="modulepreload" crossorigin href="./assets/preload-helper-CBSh75Uc.js">
+  <link rel="modulepreload" crossorigin href="./assets/geom-CntrTypS.js">
+  <link rel="modulepreload" crossorigin href="./assets/textures-QBaMI8Df.js">
+  <link rel="stylesheet" crossorigin href="./assets/factory-BGX5avRT.css">
+  <link rel="stylesheet" crossorigin href="./assets/ui-SAc_qib-.css">
+</head>
+<body>
+  <div id="viewport"></div>
+  <div id="ui"></div>
+  <div id="loading"><div class="box">
+    <svg class="peaks" width="92" height="40" viewBox="0 0 92 40" fill="none" stroke="#e2b46a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" aria-hidden="true"><path d="M2 38 L24 10 L34 22 L50 2 L70 28 L78 18 L90 38 Z"/><path d="M44 10 L50 2 L56 10" stroke-opacity=".6"/></svg>
+    <div class="k">Fading West</div>
+    <h1>Buena Vista Factory Tour</h1>
+    <div class="sub">Production floor · frame to finish · interactive 3D</div>
+    <div class="track"><div id="loading-bar"></div></div>
+    <div id="loading-msg">Loading…</div>
+  </div></div>
+</body>
+</html>
