@@ -1,4 +1,4 @@
-import{O as e}from"./index-k0U40mJ9.js";var t=e,n=`/* fw-surface */`;if(!t.uv_pars_vertex.includes(n)){let e=`${n}
+import{F as e}from"./preload-helper-TpZDrtmz.js";var t=e,n=`/* fw-surface */`;if(!t.uv_pars_vertex.includes(n)){let e=`${n}
 #ifdef FW_MACRO
 varying vec3 vFwWorld;
 #endif
